@@ -1,1 +1,1 @@
-A full fleged GUI chess game
+A full-fledged GUI chess game
